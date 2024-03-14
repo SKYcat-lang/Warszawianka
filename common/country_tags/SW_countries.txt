@@ -1,1 +1,1 @@
-MAS = "countries/Manchukou.txt"
+TRS = "countries/Georgia.txt"

@@ -1,22 +1,10 @@
-MAS = {
+TRS = {
 	color = rgb { 255 92 71 }
 	color_ui = rgb { 255 120 71 }
 }
 FER = {
 	color = rgb { 179 45 0 }
 	color_ui = rgb { 128 32 0 }
-}
-JAP = {
-	color = hsv { 0.05 0.5 0.6 }
-	color_ui = hsv { 0.05 0.5 0.6 }
-}
-WGR = {
-	color = HSV { 0.1 0.15 0.75 }
-	color_ui = rgb { 138 155 116 }
-}
-DDR = {
-    color = rgb { 164 70 70 }
-    color_ui = rgb { 199 40 40 }
 }
 POL = {
 	color = rgb { 145 23 44 }
@@ -26,6 +14,11 @@ GER = {
 	color = rgb { 50 58 98 }
 	color_ui = rgb { 20 20 40 }
 }
+HUN = {
+	color = rgb { 200 67 58 }
+	color_ui = rgb { 255 100 100 }
+}
+
 #reload countrycolors
 
 ENG = {
@@ -129,10 +122,6 @@ IRE = {
 	color = rgb { 80 159 90 }
 	color_ui = rgb { 104 207 117 }
 }
-HUN = {
-	color = rgb { 200 67 58 }
-	color_ui = rgb { 255 100 100 }
-}
 AFG = {
 	color = rgb { 64 160 167 }
 	color_ui = rgb { 83 208 217 }
@@ -200,6 +189,10 @@ HON = {
 IRQ = {
 	color = rgb { 178 114 99 }
 	color_ui = rgb { 231 148 129 }
+}
+JAP = {
+	color = hsv { 0.05 0.3 1 }
+	color_ui = hsv { 0.05 0.25 1.2 }
 }
 LIB = {
 	color = rgb { 152 130 191 }
@@ -471,6 +464,14 @@ PAK = {
 	color = rgb { 21 38 66 }
 	color_ui = rgb { 21 38 66 }
 }
+#WGR = {
+#    color = rgb { 195 236 230 } # The colors are set to be more are less what we are used to
+#    color_ui = rgb { 225 255 255 }
+#}
+#DDR = {
+#    color = rgb { 120 150 80 }
+#    color_ui = rgb { 150 180 120 }
+#}
 KOR = {
 	color = rgb { 255  240  195 }
 	color_ui = rgb { 255 248 229 }	
@@ -883,3 +884,57 @@ GRN = {
 	color = rgb { 255 80 80 }
 	color_ui = rgb { 179 0 0 }
 }
+#TODO JA, add flags for these once implemented
+RAP = {
+	color = rgb { 204 0 0 }
+	color_ui = rgb { 102 0 0 }
+}
+GAR = {
+	color = rgb { 128 128 255 }
+	color_ui = rgb { 0 0 128 }
+}
+INC = {
+	color = rgb { 255 204 0 }
+	color_ui = rgb { 128 102 0 }
+}
+MIS = {
+	color = rgb { 255 51 0 }
+	color_ui = rgb { 153 31 0 }
+}
+MAY = {
+	color = rgb { 255 80 80 }
+	color_ui = rgb { 153 0 0 }
+}
+INU = {
+	color = rgb { 51 204 204 }
+	color_ui = rgb { 15 61 61 }
+}
+CHR = {
+	color = rgb { 204 122 0 }
+	color_ui = rgb { 77 46 0 }
+}
+ITZ = {
+	color = rgb { 204 204 0 }
+	color_ui = rgb { 102 102 0 }
+}
+NAH = {
+	color = rgb { 51 153 102 }
+	color_ui = rgb { 13 38 26 }
+}
+IAS = {
+	color = rgb { 0 153 51 }
+	color_ui = rgb { 0 51 17 }
+}
+YUC = {
+	color = rgb { 255 26 26 }
+	color_ui = rgb { 102 0 0 }
+}
+RIG = {
+	color = rgb { 0 0 128 }
+	color_ui = rgb { 0 0 51 }
+}
+QUE = {
+	color = rgb { 0 102 255 }
+	color_ui = rgb { 0 31 77 }
+}
+

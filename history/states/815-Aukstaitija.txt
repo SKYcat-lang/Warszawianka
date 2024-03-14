@@ -4,8 +4,7 @@ state={
 	name="STATE_815"
 
 	history={
-		owner = SOV
-		add_core_of = SOV
+		owner = LIT
 		victory_points = {
 			6229 1 #Panevezys
 		}

@@ -4,10 +4,6 @@
 
 set_research_slots = 3
 
-set_autonomy = {
-    target = MAS
-    autonomy_state = autonomy_puppet
-}
 recruit_character = SOV_vasily_blyukher
 
 # Starting tech

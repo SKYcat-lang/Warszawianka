@@ -14,6 +14,84 @@ set_popularities = {
 	fascism = 2
 	communism = 88
 }
+UKR = {
+	set_variable = { collaboration_formed_by = ROOT }
+}
+LIT = {
+	set_variable = { collaboration_formed_by = ROOT }
+}
+LAT = {
+	set_variable = { collaboration_formed_by = ROOT }
+}
+EST = {
+	set_variable = { collaboration_formed_by = ROOT }
+}
+MOL = {
+	set_variable = { collaboration_formed_by = ROOT }
+}
+TRS = {
+	set_variable = { collaboration_formed_by = ROOT }
+}
+KAZ = {
+	set_variable = { collaboration_formed_by = ROOT }
+}
+UZB = {
+	set_variable = { collaboration_formed_by = ROOT }
+}
+TMS = {
+	set_variable = { collaboration_formed_by = ROOT }
+}
+KYR = {
+	set_variable = { collaboration_formed_by = ROOT }
+}
+TAJ = {
+	set_variable = { collaboration_formed_by = ROOT }
+}
+set_autonomy = {
+    target = UKR
+    autonomy_state = autonomy_collaboration_government
+}
+set_autonomy = {
+    target = LIT
+    autonomy_state = autonomy_collaboration_government
+}
+set_autonomy = {
+    target = LAT
+    autonomy_state = autonomy_collaboration_government
+}
+set_autonomy = {
+    target = EST
+    autonomy_state = autonomy_collaboration_government
+}
+set_autonomy = {
+    target = MOL
+    autonomy_state = autonomy_collaboration_government
+}
+set_autonomy = {
+    target = TRS
+    autonomy_state = autonomy_collaboration_government
+}
+set_autonomy = {
+    target = KAZ
+    autonomy_state = autonomy_collaboration_government
+}
+set_autonomy = {
+    target = UZB
+    autonomy_state = autonomy_collaboration_government
+}
+set_autonomy = {
+    target = TMS
+    autonomy_state = autonomy_collaboration_government
+}
+set_autonomy = {
+    target = KYR
+    autonomy_state = autonomy_collaboration_government
+}
+set_autonomy = {
+    target = TAJ
+    autonomy_state = autonomy_collaboration_government
+}
+
 set_autonomy = {
     target = POL
     autonomy_state = autonomous_country
