@@ -1,0 +1,8 @@
+spriteTypes = {
+
+	# leaders we need to override in DLC go in this file
+	spriteType = {
+		name = "GFX_autonomous_country_icon"
+		textureFile = "gfx/interface/autonomy/autonomy_supervised_state.dds"
+	}
+}
