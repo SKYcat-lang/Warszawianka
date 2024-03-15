@@ -14,17 +14,9 @@ if = {
 
 set_research_slots = 3
 
-if = {
-	limit = {
-		has_DLC = "No Step Back"
-	}
-	add_ideas = {
-		limited_conscription
-		LIT_iron_wolf_idea_bad_1
-		LIT_agrarian_society
-		LIT_military_idea_1
-		LIT_seimas_idea_1
-	}
+add_ideas = {
+	LIT_agrarian_society
+	democratic_opposition
 }
 
 set_variable = {
@@ -103,13 +95,4 @@ set_popularities = {
 	fascism = 15
 	communism = 55
 	neutrality = 15
-}
-
-1939.1.1 = {
-	set_politics = {
-		ruling_party = neutrality
-		last_election = "1936.6.10"
-		election_frequency = 120
-		elections_allowed = no
-	}
 }

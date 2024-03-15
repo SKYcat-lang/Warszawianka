@@ -129,9 +129,9 @@
  TAJ_SOV_autonomy_collaboration_government:0 "타지크 소비에트 사회주의 공화국"
  TAJ_SOV_autonomy_collaboration_government_DEF:0 "타지크 소비에트 사회주의 공화국"
  TAJ_SOV_autonomy_collaboration_government_ADJ:0 "타지크 소비에트 사회주의 공화국"
- TMA_SOV_autonomy_collaboration_government:0 "투르크멘 소비에트 사회주의 공화국"
- TMA_SOV_autonomy_collaboration_government_DEF:0 "투르크멘 소비에트 사회주의 공화국"
- TMA_SOV_autonomy_collaboration_government_ADJ:0 "투르크멘 소비에트 사회주의 공화국"
+ TMS_SOV_autonomy_collaboration_government:0 "투르크멘 소비에트 사회주의 공화국"
+ TMS_SOV_autonomy_collaboration_government_DEF:0 "투르크멘 소비에트 사회주의 공화국"
+ TMS_SOV_autonomy_collaboration_government_ADJ:0 "투르크멘 소비에트 사회주의 공화국"
 
  COUNTRY_HUN_autonomy_collaboration_government:0 "$NONIDEOLOGY$ 평의회 공화국"
  COUNTRY_HUN_autonomy_collaboration_government_DEF:0 "$NONIDEOLOGYDEF$ 평의회 공화국"
