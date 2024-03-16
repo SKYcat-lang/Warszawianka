@@ -25,6 +25,25 @@ if = {
 	}
 }
 
+if = {
+	limit = {
+		has_dlc = "Death or Dishonor"
+	}
+	add_ideas = {
+		disarmed_nation
+	}
+	if = {
+		limit = { has_dlc = "Arms Against Tyranny" }
+		add_ideas = { SW_bucharest_treaty }
+	}
+	if = {
+		limit = {
+			NOT = { has_dlc = "Arms Against Tyranny" }
+		}
+		add_ideas = { SW_bucharest_treaty_aat }
+	}
+}
+
 set_research_slots = 3
 set_stability = 0.6
 set_war_support = 0.6

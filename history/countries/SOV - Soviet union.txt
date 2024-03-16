@@ -96,10 +96,6 @@ set_autonomy = {
     target = POL
     autonomy_state = autonomous_country
 }
-set_autonomy = {
-    target = ROM
-    autonomy_state = autonomous_country
-}
 create_faction = Comintern
 add_to_faction = SOV
 add_to_faction = MON

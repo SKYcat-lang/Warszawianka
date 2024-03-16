@@ -1,0 +1,68 @@
+ideas = {
+
+	country = {
+		SW_HUN_spark_of_revolution = {
+			picture = home_of_revolution
+			allowed = {
+				original_tag = HUN
+			}
+
+			allowed_civil_war = {
+				has_government = communism
+			}
+
+			removal_cost = -1
+
+			modifier = {
+				drift_defence_factor = 0.25
+			}
+		}
+		SW_bucharest_treaty = {
+			picture = HUN_treaty_of_triannon
+			allowed = {
+				OR = {
+					original_tag = ROM
+					original_tag = SER
+					original_tag = CZE
+				}
+				always = no
+			}
+			available = {
+				has_war = no
+			}
+	
+			removal_cost = -1
+	
+			modifier = {
+				conscription = -0.005
+				production_speed_arms_factory_factor = -0.50
+			}
+		}
+		SW_bucharest_treaty_aat = {
+			name = SW_bucharest_treaty
+			picture = HUN_treaty_of_triannon
+			allowed = {
+				OR = {
+					original_tag = ROM
+					original_tag = SER
+					original_tag = CZE
+				}
+				always = no
+			}
+			available = {
+				has_war = no
+			}
+	
+			removal_cost = -1
+	
+			rule = {
+				can_access_market = no
+			}
+	
+			modifier = {
+				conscription = -0.005
+				production_speed_arms_factory_factor = -0.50
+			}
+		}
+	}
+}
