@@ -719,6 +719,8 @@ set_variable = { SOV_factionalism_political_power_factor = -0.10 }
 set_variable = { SOV_factionalism_political_advisor_cost_factor = 0 }
 set_variable = { SOV_factionalism_popularity_stability_cost_factor = -0.1 }
 
+add_dynamic_modifier = { modifier = SOV_factionalism_modifier }
+
 #POUM VARS
 set_variable = { SOV_default_poum_days = 30 }
 set_variable = { SOV_default_poum_cd = 180 }
@@ -932,10 +934,7 @@ set_country_flag = SOV_TEST_REMOVE_VANILLA_ADVISORS_flag
 
 add_ideas = {	
 	home_of_revolution
-	trotskyite_plot_nsb
 	SOV_politicized_military
-
-	SOV_genrikh_yagoda #NKVD Chief (political advisor)
 }
 
 
